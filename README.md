@@ -105,3 +105,24 @@
 - Introduction aux ordonnanceurs
 - Configuration et gestion avec TWS Tivoli
 - Optimisation des flux de travail
+
+## **Semaine 12: Infrastructure as Code (IaC) & Outils de Collaboration**
+### **Jour 1-2**: Introduction à l'Infrastructure as Code (IaC)
+- Qu'est-ce que l'IaC et pourquoi est-il important?
+- Avantages et défis de l'IaC
+- Outils populaires pour l'IaC (Terraform, CloudFormation, etc.)
+
+### **Jour 3-4**: Approfondissement de Terraform
+- Installation et configuration de base
+- Création et gestion de ressources avec Terraform
+- Modules et dépendances
+
+### **Jour 5**: Outils de collaboration en DevOps
+- Présentation de Slack, Microsoft Teams, JIRA, etc.
+- Intégration de ces outils dans un workflow DevOps
+- Best practices pour la communication et la collaboration en équipe DevOps
+
+### **Jour 6-7**: Ateliers pratiques sur l'IaC et les outils de collaboration
+- Mise en pratique des concepts d'IaC avec Terraform
+- Intégration d'outils de collaboration dans un environnement DevOps
+- Études de cas et retours d'expérience
